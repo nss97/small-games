@@ -1,0 +1,88 @@
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第二次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\第三次\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\第三次 - 棋子棋盘\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\第四次 - 判断输赢\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第五次 - 基本功能完成\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\第六次-悔棋完成！！！\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\七\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\乐2016A\程序设计实践\作业1\七--终板\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
